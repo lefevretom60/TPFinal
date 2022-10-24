@@ -1,0 +1,39 @@
+
+.experience{
+    float: left;
+    width: 40%;
+    padding-right: 30%; 
+    height: 1000px;
+   
+}
+
+.box .box1 {
+
+    text-align: justify;
+    width: 50%;
+    padding: 15px;
+}
+
+.box .box2 {
+    text-align: right;
+    width: 50%;
+    text-align: right;
+    padding: 15px;
+}
+
+.box{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 50px; 
+    height: 150px;   
+}
+
+#skills{
+    margin-right: 100px;
+}
+
+#liste{
+    margin-left: 600px;
+    text-align: left;
+
+}
