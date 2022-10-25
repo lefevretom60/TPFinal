@@ -1,0 +1,29 @@
+input[valeur="famille"]
+{
+    margin-left: 100px;
+}
+
+input[name="nom"]
+{
+    margin-left: 118px;
+}
+
+select[id="age"]
+{
+    margin-left: 35px;
+}
+
+input[name="année"]
+{
+    margin-left: 10px;
+}
+
+input[name="email"]
+{
+    margin-left: 105px;
+}
+input[type='submit']
+{
+    width: 5rem;
+    justify-self: end;
+}
